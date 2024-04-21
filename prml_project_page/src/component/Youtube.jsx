@@ -9,7 +9,7 @@ function Youtube() {
       <div className="youtube-video-wrapper">
         <iframe
           className="youtube-video"
-          src="https://www.youtube.com/embed/LSVg8p5zGOw?si=nZLia7SYyKoNtdBI"
+          src=""
           title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
