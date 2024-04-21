@@ -1,4 +1,5 @@
 import React from 'react';
+
 import './Youtube.css'; // Assuming you have a CSS file for styling
 
 function Youtube() {
@@ -8,7 +9,7 @@ function Youtube() {
       <div className="youtube-video-wrapper">
         <iframe
           className="youtube-video"
-          src="https://www.youtube.com/embed/8PTOkwze0Vw?si=iwI9et2P1e6LlMTb"
+          src="https://youtu.be/LSVg8p5zGOw"
           title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
